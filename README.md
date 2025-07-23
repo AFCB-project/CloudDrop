@@ -1,3 +1,3 @@
-# CloudDeploy
+# CloudDrop
 
-Hello! This is alpha version of CloudDeploy site. Thanks!
+Hello! This is alpha version of CloudDrop site. Thanks!
